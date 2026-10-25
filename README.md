@@ -1,3 +1,28 @@
+<!-- 中文用途说明：开始 -->
+# 电脑里的大表格分析｜DuckDB
+
+> **一句话看懂：快速分析电脑里的大表格和数据文件。**
+
+| 你想了解什么 | 中文说明 |
+|---|---|
+| 这个工具能做什么 | 快速分析电脑里的大表格和数据文件。 |
+| 怎么使用 | 用查询语句分析表格文件，适合本地数据整理和汇总。 |
+| 适合谁 | 需要合并多个数据文件、计算行业指标的人。 |
+| 主要限制 | 多个程序同时直接写同一文件需要协调。 |
+| 后续可以怎么改 | 安排统一写入，并限制内存和临时文件大小。 |
+
+**当前状态：代码已复制到这个账号；尚未安装或实际运行验证。上面的修改建议还没有实施。**
+
+[查看中文工具总目录](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1) · [查看各工具的详细评估](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1/03_详细报告和核验记录/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7%E7%BC%BA%E9%99%B7%E4%B8%8E%E6%94%B9%E9%80%A0%E6%8A%A5%E5%91%8A.md)
+
+中文用途整理日期：2026年10月25日。
+<!-- 中文用途说明：结束 -->
+
+---
+
+<details>
+<summary>原项目详细说明（点击展开）</summary>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://duckdb.org/images/designmanual/DuckDB_inline-lightmode.svg">
@@ -59,3 +84,6 @@ Please also refer to our [Build Guide](https://duckdb.org/docs/current/dev/build
 ## Support
 
 See the [Support Options](https://ducklabs.com/support/) page and the dedicated [`endoflife.date`](https://endoflife.date/duckdb) page.
+
+
+</details>
